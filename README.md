@@ -17,7 +17,9 @@
 - typings
 
 ## Installation
-
+npm install -g tsc
+npm install -g typings
+npm install
 ```
 npm install && bower install && typings install
 ```
