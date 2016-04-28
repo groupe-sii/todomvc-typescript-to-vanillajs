@@ -1,0 +1,4 @@
+module todomvctypescripttovanillajs {
+    'use strict';
+
+}

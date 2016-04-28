@@ -1,0 +1,9 @@
+{
+  "name": "todomvc-typescript-to-vanillajs",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "lodash": "^4.11.2"
+  },
+  "overrides": {}
+}
